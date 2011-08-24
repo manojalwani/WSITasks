@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/manoj/gsoc/gdcm/Applications/Cxx/puff.c
+setjmp.h
+-
+puff.h
+/home/manoj/gsoc/gdcm/Applications/Cxx/puff.h
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+
+/home/manoj/gsoc/gdcm/Applications/Cxx/puff.h
+

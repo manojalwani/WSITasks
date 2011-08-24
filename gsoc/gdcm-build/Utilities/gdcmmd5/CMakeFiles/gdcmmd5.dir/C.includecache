@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/manoj/gsoc/gdcm/Utilities/gdcmmd5/md5.c
+md5.h
+/home/manoj/gsoc/gdcm/Utilities/gdcmmd5/md5.h
+string.h
+-
+
+/home/manoj/gsoc/gdcm/Utilities/gdcmmd5/md5.h
+md5_mangle.h
+/home/manoj/gsoc/gdcm/Utilities/gdcmmd5/md5_mangle.h
+
+Utilities/gdcmmd5/md5_mangle.h
+
